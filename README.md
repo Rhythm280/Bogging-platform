@@ -1,12 +1,12 @@
 # Blogging platform
 This is the basic blogging platform where we can view, create, edit, and delete blog posts. This project help me understand the fundamentals of web development, including server-client interaction and database operations
 
-Stack:
+#### Stack:
 - Back-end: Python (flask).
-- Database: SQlite.
+- Database: SQLite.
 - Front-end: HTML, CSS, JavaScript.
 
 
 #### Start the Blogging platform:
-``` flask run```
+``` Flask run```
 in our terminal window.
